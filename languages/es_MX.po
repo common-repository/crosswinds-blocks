@@ -1,0 +1,2200 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Crosswinds Blocks\n"
+"POT-Creation-Date: 2024-01-14 17:18-0600\n"
+"PO-Revision-Date: 2024-01-14 17:20-0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: crosswinds-blocks.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: admin/class-crosswinds-blocks-admin.php:180
+#, fuzzy
+msgid "Crosswinds Framework & Block Settings"
+msgstr "Marco Crosswinds y configuración de bloques"
+
+#: admin/class-crosswinds-blocks-admin.php:181
+msgid "Crosswinds"
+msgstr "Crosswinds"
+
+#: admin/class-crosswinds-blocks-admin.php:350
+msgid "Facebook Profile"
+msgstr "Perfil de Facebook"
+
+#: admin/class-crosswinds-blocks-admin.php:351
+#, fuzzy
+#| msgid "Twitter"
+msgid "Twitter Profile"
+msgstr "Twitter"
+
+#: admin/class-crosswinds-blocks-admin.php:352
+msgid "Instagram Profile"
+msgstr "Perfil de Instagram"
+
+#: admin/class-crosswinds-blocks-admin.php:353
+#, fuzzy
+msgid "Mastodon Profile"
+msgstr "Mastodonte"
+
+#: admin/class-crosswinds-blocks-admin.php:354
+#, fuzzy
+msgid "Tumblr Blog"
+msgstr "Blog de Tumblr"
+
+#: admin/partials/admin-page.php:49
+msgid "Crosswinds Framework"
+msgstr "Crosswinds Framework"
+
+#: admin/partials/admin-page.php:57
+msgid "Version"
+msgstr "Versión"
+
+#: admin/partials/admin-page.php:64
+#, fuzzy
+msgid "Framework Version"
+msgstr "Bloques Versión"
+
+#: admin/partials/admin-page.php:71
+#, fuzzy
+msgid "Blocks Version"
+msgstr "Bloques Versión"
+
+#: admin/partials/admin-page.php:79
+#, fuzzy
+msgid "Welcome to Crosswinds Framework!"
+msgstr "¡Bienvenido a Crosswinds Blocks!"
+
+#: admin/partials/admin-page.php:87
+#, fuzzy
+msgid ""
+"Thank you for choosing to use the Crosswinds Blocks plugin to power your "
+"website! Below you'll find links to documentation to learn how to harness "
+"the power of the blocks you've now added to your website, as well as view "
+"all of the amazing Crosswinds Framework themes that can help you build the "
+"website you've always wanted to build."
+msgstr ""
+"Gracias por elegir el plugin Crosswinds Blocks para potenciar su sitio web A "
+"continuación encontrará enlaces a la documentación para aprender a "
+"aprovechar el poder de los bloques que ahora ha añadido a su sitio web, así "
+"como ver todos los temas increíbles Crosswinds Framework que pueden ayudarle "
+"a construir el sitio web que siempre has querido construir."
+
+#: admin/partials/admin-page.php:93
+#, fuzzy
+msgid "Start Editing"
+msgstr "Comenzar a editar"
+
+#: admin/partials/admin-page.php:94
+#, fuzzy
+msgid "Check out the Documentation"
+msgstr "Consulte la documentación"
+
+#. Plugin Name of the plugin/theme
+#: admin/partials/admin-page.php:110
+#: blocks/class-crosswinds-blocks-blocks.php:314
+#: patterns/class-crosswinds-blocks-patterns.php:55
+msgid "Crosswinds Blocks"
+msgstr "Crosswinds Blocks"
+
+#: admin/partials/admin-page.php:122
+#, fuzzy
+msgid "Check Out Crosswinds Framework Templates"
+msgstr "Echa un vistazo a las plantillas del marco Crosswinds"
+
+#: admin/partials/admin-page.php:123
+#, fuzzy
+msgid ""
+"Want to get the most out of Crosswinds Blocks? Checkout the Crosswinds "
+"Framework themes! From a portfolio to an online store to a newspaper website "
+"and even a blank canvas to create anything you want, the Crosswinds "
+"Framework will help you create a great website."
+msgstr ""
+"¿Quiere sacar el máximo partido a los bloques Crosswinds? ¡Echa un vistazo a "
+"los temas de Crosswinds Framework! Desde un portafolio hasta una tienda en "
+"línea, pasando por un sitio web para un periódico e incluso un lienzo en "
+"blanco para crear lo que quieras, Crosswinds Framework te ayudará a crear un "
+"sitio web estupendo."
+
+#: admin/partials/admin-page.php:124
+#, fuzzy
+msgid "Download Crosswinds Framework"
+msgstr "Descargar el marco Crosswinds"
+
+#: admin/partials/admin-page.php:141
+msgid "Required Plugins"
+msgstr "Instalar plugins requeridos"
+
+#: admin/partials/admin-page.php:149 admin/partials/admin-page.php:189
+#: admin/partials/admin-page.php:216 admin/partials/admin-page.php:256
+msgid "Learn More"
+msgstr "Saber más"
+
+#: admin/partials/admin-page.php:163 admin/partials/admin-page.php:230
+msgid "Install"
+msgstr "Instalar"
+
+#: admin/partials/admin-page.php:178 admin/partials/admin-page.php:245
+msgid "Activate"
+msgstr "Activar"
+
+#: admin/partials/admin-page.php:180 admin/partials/admin-page.php:247
+msgid "Installed"
+msgstr "Instalado"
+
+#: admin/partials/admin-page.php:208
+#, fuzzy
+msgid "Suggested Plugins"
+msgstr "Plugins sugeridos"
+
+#: admin/partials/admin-page.php:289 admin/partials/admin-page.php:291
+#, fuzzy
+msgid "Report an Issue"
+msgstr "Informar de un problema"
+
+#: admin/partials/admin-page.php:290
+#, fuzzy
+msgid ""
+"If you come across an issue with Crosswinds Blocks, please report the issue "
+"in the GitHub repository using the link below."
+msgstr ""
+"Si se encuentra con un problema con Crosswinds Blocks, por favor informe del "
+"problema en el repositorio GitHub utilizando el enlace de abajo."
+
+#: admin/partials/admin-page.php:295 admin/partials/admin-page.php:297
+msgid "Suggest a Feature"
+msgstr "Sugerir una característica"
+
+#: admin/partials/admin-page.php:296
+#, fuzzy
+msgid ""
+"Want to see a new feature included in a release of Crosswinds Blocks? Be "
+"sure to drop your feature idea off in the GitHub repository using the link "
+"below."
+msgstr ""
+"¿Quieres que se incluya una nueva función en una versión de Crosswinds "
+"Blocks? Asegúrate de dejar tu idea en el repositorio de GitHub utilizando el "
+"siguiente enlace."
+
+#: admin/partials/admin-page.php:301 admin/partials/admin-page.php:303
+msgid "View Documentation"
+msgstr "Ver Documentación"
+
+#: admin/partials/admin-page.php:302
+#, fuzzy
+msgid ""
+"Learn how you can get started using the Crosswinds Framework for your "
+"website by visiting the documentation at the link below."
+msgstr ""
+"Aprenda cómo puede empezar a utilizar Crosswinds Framework para su sitio web "
+"visitando la documentación en el siguiente enlace."
+
+#: admin/partials/plugin-settings.php:22
+msgid "Accordions"
+msgstr "Acordeones"
+
+#: admin/partials/plugin-settings.php:23
+#, fuzzy
+msgid "Add an accordion section to your content."
+msgstr "Añada una sección de acordeón a su contenido."
+
+#: admin/partials/plugin-settings.php:29
+#, fuzzy
+#| msgid "Social Icons"
+msgid "Author Social Icons"
+msgstr "Iconos sociales"
+
+#: admin/partials/plugin-settings.php:30
+#, fuzzy
+msgid "Add links to an author social media accounts."
+msgstr "Añade enlaces a las cuentas de redes sociales del autor."
+
+#: admin/partials/plugin-settings.php:36
+#, fuzzy
+msgid "ACF Field"
+msgstr "Campo ACF"
+
+#: admin/partials/plugin-settings.php:37
+#, fuzzy
+msgid "Display a value from an Advanced Custom Fields field."
+msgstr "Mostrar un valor de un campo de Campos personalizados avanzados."
+
+#: admin/partials/plugin-settings.php:43
+#, fuzzy
+msgid "Basic Grid"
+msgstr "Rejilla básica"
+
+#: admin/partials/plugin-settings.php:44
+#, fuzzy
+msgid "Add a simple grid with a custom number of columns."
+msgstr "Añadir una cuadrícula simple con un número personalizado de columnas."
+
+#: admin/partials/plugin-settings.php:50
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: admin/partials/plugin-settings.php:51
+#, fuzzy
+msgid ""
+"Display a breadcrumbs section to help a user know where they are on your "
+"site."
+msgstr ""
+"Muestre una sección de migas de pan para ayudar al usuario a saber dónde se "
+"encuentra en su sitio."
+
+#: admin/partials/plugin-settings.php:57
+msgid "Comments Number"
+msgstr "Número de comentarios"
+
+#: admin/partials/plugin-settings.php:58
+#, fuzzy
+msgid "Display the number of comments for a post."
+msgstr "Mostrar el número de comentarios de una entrada."
+
+#: admin/partials/plugin-settings.php:64
+msgid "Copyright"
+msgstr "Derechos de autor"
+
+#: admin/partials/plugin-settings.php:65
+#, fuzzy
+msgid "Display the copyright that will always be updated."
+msgstr "Muestra los derechos de autor que se actualizarán siempre."
+
+#: admin/partials/plugin-settings.php:71
+#, fuzzy
+msgid "Downloads Search Filters"
+msgstr "Descargas Filtros de búsqueda"
+
+#: admin/partials/plugin-settings.php:72
+#, fuzzy
+msgid ""
+"Adds in a set of download search blocks that allow you to create a download "
+"search filters section."
+msgstr ""
+"Añade un conjunto de bloques de búsqueda de descargas que permiten crear una "
+"sección de filtros de búsqueda de descargas."
+
+#: admin/partials/plugin-settings.php:78
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: admin/partials/plugin-settings.php:79
+#, fuzzy
+msgid "Add in a Google Maps embed to show a location."
+msgstr "Añade una incrustación de Google Maps para mostrar una ubicación."
+
+#: admin/partials/plugin-settings.php:85
+#, fuzzy
+msgid "Marquee"
+msgstr "Marquesina"
+
+#: admin/partials/plugin-settings.php:86
+#, fuzzy
+msgid "Create a section of horizontally scrolling text."
+msgstr "Cree una sección de texto con desplazamiento horizontal."
+
+#: admin/partials/plugin-settings.php:92
+#, fuzzy
+msgid "Post Type Search Results"
+msgstr "Filtros de búsqueda de proyectos"
+
+#: admin/partials/plugin-settings.php:93
+#, fuzzy
+msgid "Display search results based on the post type searched for."
+msgstr "Mostrar resultados de búsqueda basados en el tipo de entrada buscado."
+
+#: admin/partials/plugin-settings.php:99
+#, fuzzy
+msgid "Project Search Filters"
+msgstr "Filtros de búsqueda de proyectos"
+
+#: admin/partials/plugin-settings.php:100
+#, fuzzy
+msgid ""
+"Adds in a set of project search blocks that allow you to create a project "
+"search filters section."
+msgstr ""
+"Añade un conjunto de bloques de búsqueda de proyectos que permiten crear una "
+"sección de filtros de búsqueda de proyectos."
+
+#: admin/partials/plugin-settings.php:106
+#: blocks/src/project-information/edit.js:91
+msgid "Project Information"
+msgstr "Información del proyecto"
+
+#: admin/partials/plugin-settings.php:107
+#, fuzzy
+msgid "Allows you to show the category, client and date for a project."
+msgstr "Permite mostrar la categoría, el cliente y la fecha de un proyecto."
+
+#: admin/partials/plugin-settings.php:113
+msgid "Post Navigation"
+msgstr "Navegación de Posts"
+
+#: admin/partials/plugin-settings.php:114
+#, fuzzy
+msgid "Add in customizable next and previous post blocks."
+msgstr "Añade bloques personalizables de entrada siguiente y anterior."
+
+#: admin/partials/plugin-settings.php:120
+#: patterns/related-posts/related-posts-section.php:13
+msgid "Related Posts"
+msgstr "Publicaciones relacionadas"
+
+#: admin/partials/plugin-settings.php:121
+#, fuzzy
+msgid "Create a section to show related posts for continued reading."
+msgstr ""
+"Cree una sección para mostrar entradas relacionadas para continuar leyendo."
+
+#: admin/partials/plugin-settings.php:127
+msgid "Search Filters"
+msgstr "Filtros de búsqueda"
+
+#: admin/partials/plugin-settings.php:128
+#, fuzzy
+msgid ""
+"Add in blocks to help you create a search filters sections for any post type."
+msgstr ""
+"Añade un conjunto de bloques de búsqueda de proyectos que permiten crear una "
+"sección de filtros de búsqueda de proyectos."
+
+#: admin/partials/plugin-settings.php:134
+#, fuzzy
+msgid "Single Content"
+msgstr "Contenido único"
+
+#: admin/partials/plugin-settings.php:135
+#, fuzzy
+msgid ""
+"Add in a section to highlight a single post, page or other custom post type."
+msgstr ""
+"Añadir en una sección para resaltar un solo post, página u otro tipo de post "
+"personalizado."
+
+#: admin/partials/plugin-settings.php:141
+#, fuzzy
+msgid "Skills Slider"
+msgstr "Deslizador de habilidades"
+
+#: admin/partials/plugin-settings.php:142
+#, fuzzy
+msgid "Add a skills slider to show how much you know about something."
+msgstr ""
+"Añade un control deslizante de habilidades para mostrar cuánto sabes sobre "
+"algo."
+
+#: admin/partials/plugin-settings.php:148
+#, fuzzy
+msgid "Social Share Content"
+msgstr "Contenido para compartir en redes sociales"
+
+#: admin/partials/plugin-settings.php:149
+#, fuzzy
+msgid "Add a click to share section for your content."
+msgstr "Añade una sección para compartir tus contenidos."
+
+#: admin/partials/plugin-settings.php:155
+msgid "Tabs"
+msgstr "Pestañas"
+
+#: admin/partials/plugin-settings.php:156
+#, fuzzy
+msgid "Add a section with tabs."
+msgstr "Añade una sección con pestañas."
+
+#: admin/partials/plugin-settings.php:166
+#: includes/class-crosswinds-blocks-setup.php:36
+msgid "Projects"
+msgstr "Proyectos"
+
+#: admin/partials/plugin-settings.php:167
+#, fuzzy
+msgid "Add a project custom post type for your website."
+msgstr "Añada un tipo de entrada personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:173
+#: includes/class-crosswinds-blocks-setup.php:85
+msgid "Videos"
+msgstr "Videos"
+
+#: admin/partials/plugin-settings.php:174
+#, fuzzy
+msgid "Add a video custom post type for your website."
+msgstr "Añada un tipo de entrada personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:180
+#: includes/class-crosswinds-blocks-setup.php:114
+msgid "Resources"
+msgstr "Recursos"
+
+#: admin/partials/plugin-settings.php:181
+#, fuzzy
+msgid "Add a resource custom post type for your website."
+msgstr "Añada un tipo de entrada personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:187
+#: includes/class-crosswinds-blocks-setup.php:143
+#, fuzzy
+msgid "Guides"
+msgstr "Guías"
+
+#: admin/partials/plugin-settings.php:188
+#, fuzzy
+msgid "Add a guide custom post type for your website."
+msgstr "Añada un tipo de entrada personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:198
+#: includes/class-crosswinds-blocks-setup.php:186
+msgid "Project Category"
+msgstr "Categoría de Proyecto"
+
+#: admin/partials/plugin-settings.php:199
+#, fuzzy
+msgid ""
+"Add a project category taxonomy for the project custom post type for your "
+"website."
+msgstr ""
+"Añada una taxonomía de categoría de proyecto para el tipo de entrada "
+"personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:205
+#: includes/class-crosswinds-blocks-setup.php:215
+msgid "Project Tag"
+msgstr "Etiqueta de Proyecto"
+
+#: admin/partials/plugin-settings.php:206
+#, fuzzy
+msgid ""
+"Add a project tag taxonomy for the project custom post type for your website."
+msgstr ""
+"Añada una taxonomía de etiqueta de proyecto para el tipo de entrada "
+"personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:212
+#: includes/class-crosswinds-blocks-setup.php:249
+msgid "Video Playlist"
+msgstr "Lista de reproducción de video"
+
+#: admin/partials/plugin-settings.php:213
+#, fuzzy
+msgid ""
+"Add a video playlist taxonomy for the video custom post type for your "
+"website."
+msgstr ""
+"Añada una taxonomía de etiqueta de proyecto para el tipo de entrada "
+"personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:219
+#: includes/class-crosswinds-blocks-setup.php:278
+#, fuzzy
+msgid "Video Topic"
+msgstr "Tema del vídeo"
+
+#: admin/partials/plugin-settings.php:220
+#, fuzzy
+msgid ""
+"Add a video topic taxonomy for the video custom post type for your website."
+msgstr ""
+"Añada una taxonomía de etiqueta de proyecto para el tipo de entrada "
+"personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:226
+#: includes/class-crosswinds-blocks-setup.php:312
+#, fuzzy
+#| msgid "Parent Category"
+msgid "Resource Category"
+msgstr "Categoría Padre"
+
+#: admin/partials/plugin-settings.php:227
+#, fuzzy
+msgid ""
+"Add a resource category taxonomy for the resource custom post type for your "
+"website."
+msgstr ""
+"Añada una taxonomía de categoría de proyecto para el tipo de entrada "
+"personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:233
+#: includes/class-crosswinds-blocks-setup.php:341
+#, fuzzy
+#| msgid "Search Tags"
+msgid "Resource Tag"
+msgstr "Etiquetas de búsqueda"
+
+#: admin/partials/plugin-settings.php:234
+#, fuzzy
+msgid ""
+"Add a resource tag taxonomy for the resource custom post type for your "
+"website."
+msgstr ""
+"Añada una taxonomía de etiqueta de proyecto para el tipo de entrada "
+"personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:240
+#: includes/class-crosswinds-blocks-setup.php:375
+#, fuzzy
+#| msgid "Update Category"
+msgid "Guide Category"
+msgstr "Actualizar Categoría"
+
+#: admin/partials/plugin-settings.php:241
+#, fuzzy
+msgid ""
+"Add a guide category taxonomy for the project custom post type for your "
+"website."
+msgstr ""
+"Añada una taxonomía de categoría de proyecto para el tipo de entrada "
+"personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:247
+#: includes/class-crosswinds-blocks-setup.php:404
+#, fuzzy
+#| msgid "Update Tag"
+msgid "Guide Tag"
+msgstr "Actualizar etiqueta"
+
+#: admin/partials/plugin-settings.php:248
+#, fuzzy
+msgid ""
+"Add a guide tag taxonomy for the guide custom post type for your website."
+msgstr ""
+"Añada una taxonomía de etiqueta de proyecto para el tipo de entrada "
+"personalizada de proyecto para su sitio web."
+
+#: admin/partials/plugin-settings.php:275
+msgid "Blocks"
+msgstr "Bloques"
+
+#: admin/partials/plugin-settings.php:277
+#: admin/partials/plugin-settings.php:356
+#: admin/partials/plugin-settings.php:435
+#, fuzzy
+msgid "Enable All"
+msgstr "Activar todo"
+
+#: admin/partials/plugin-settings.php:278
+#: admin/partials/plugin-settings.php:357
+#: admin/partials/plugin-settings.php:436
+#, fuzzy
+msgid "Disable All"
+msgstr "Desactivar todo"
+
+#: admin/partials/plugin-settings.php:302
+#: admin/partials/plugin-settings.php:381
+#: admin/partials/plugin-settings.php:460
+msgid "Documentation"
+msgstr "Documentación"
+
+#: admin/partials/plugin-settings.php:343
+#: admin/partials/plugin-settings.php:422
+#: admin/partials/plugin-settings.php:501
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#: admin/partials/plugin-settings.php:354
+msgid "Post Types"
+msgstr "Tipos de publicaciones"
+
+#: admin/partials/plugin-settings.php:433
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: admin/partials/plugin-settings.php:515
+#, fuzzy
+msgid "Related Posts Block Settings"
+msgstr "Related Posts Sección"
+
+#: admin/partials/plugin-settings.php:525
+#, fuzzy
+msgid "Select the taxonomy to be used to get related posts for each post type."
+msgstr ""
+"Seleccione la taxonomía que se utilizará para obtener entradas relacionadas "
+"para cada tipo de entrada."
+
+#: admin/partials/plugin-settings.php:529
+msgid "Post Type"
+msgstr "Tipo de mensaje"
+
+#: admin/partials/plugin-settings.php:530
+#, fuzzy
+msgid "Selected Taxonomy"
+msgstr "Seleccione una etiqueta"
+
+#: admin/partials/plugin-settings.php:546
+#, fuzzy
+msgid "Select a Taxonomy"
+msgstr "Seleccione una etiqueta"
+
+#: admin/partials/plugin-settings.php:572
+msgid "Other Settings"
+msgstr "Otros ajustes"
+
+#: admin/partials/plugin-settings.php:583
+msgid "Google Maps API Key"
+msgstr "Clave API Google Maps"
+
+#: admin/partials/plugin-settings.php:592
+#, fuzzy
+msgid "Save Plugin Settings"
+msgstr "Guardar la configuración del plugin"
+
+#: blocks/block-customizations/build/index.js:1
+#: blocks/block-customizations/src/attributes/groupInnerLayout.js:62
+#, fuzzy
+msgid "Group Spacing"
+msgstr "Espaciado entre grupos"
+
+#: blocks/block-customizations/build/index.js:1
+#: blocks/block-customizations/src/attributes/groupInnerLayout.js:65
+#: blocks/src/single-content/edit.js:88
+#, fuzzy
+msgid "Use Flexbox on Group?"
+msgstr "¿Utilizar Flexbox en Grupo?"
+
+#: blocks/block-customizations/build/index.js:1
+#: blocks/block-customizations/src/attributes/groupInnerLayout.js:73
+#: blocks/src/single-content/edit.js:96
+#, fuzzy
+msgid "Have Group Fill Height of Parent Block?"
+msgstr "¿Hacer que el grupo llene la altura del bloque padre?"
+
+#: blocks/block-customizations/build/index.js:1
+#: blocks/block-customizations/src/attributes/groupInnerLayout.js:80
+#, fuzzy
+msgid "Inner Spacing"
+msgstr "Distancia interior"
+
+#: blocks/block-customizations/build/index.js:1
+#: blocks/block-customizations/src/attributes/groupInnerLayout.js:85
+#: blocks/src/basic-grid-item/edit.js:52
+#, fuzzy
+msgid "Normal Spacing"
+msgstr "Espaciado normal"
+
+#: blocks/block-customizations/build/index.js:1
+#: blocks/block-customizations/src/attributes/groupInnerLayout.js:89
+#: blocks/src/basic-grid-item/edit.js:56
+#, fuzzy
+msgid "Equal Spacing"
+msgstr "Espaciado igual"
+
+#: blocks/block-customizations/build/index.js:1
+#: blocks/block-customizations/src/attributes/groupInnerLayout.js:93
+#: blocks/src/basic-grid-item/edit.js:60
+msgid "Center Align"
+msgstr "Alineación Central"
+
+#: blocks/block-customizations/build/index.js:1
+#: blocks/block-customizations/src/attributes/groupInnerLayout.js:97
+#: blocks/src/basic-grid-item/edit.js:64
+#, fuzzy
+msgid "All Bottom"
+msgstr "Todos los fondos"
+
+#: blocks/block-customizations/build/index.js:1
+#: blocks/block-customizations/src/attributes/groupInnerLayout.js:101
+#: blocks/src/basic-grid-item/edit.js:68
+#, fuzzy
+msgid "Last Item at Bottom"
+msgstr "Último elemento en la parte inferior"
+
+#: blocks/block-customizations/src/attributes/columnFlexOption.js:62
+#, fuzzy
+msgid "Column Layout Settings"
+msgstr "Configuración de la disposición de las columnas"
+
+#: blocks/block-customizations/src/attributes/columnFlexOption.js:65
+#, fuzzy
+msgid "Use Flexbox on Column?"
+msgstr "¿Utilizar Flexbox en columna?"
+
+#: blocks/block-customizations/src/attributes/postTitleOptions.js:76
+msgid "Title"
+msgstr "Título"
+
+#: blocks/block-customizations/src/attributes/postTitleOptions.js:82
+#: blocks/block-customizations/src/attributes/postTitleOptions.js:105
+msgid "No Title"
+msgstr "Sin Título"
+
+#: blocks/block-customizations/src/attributes/postTitleOptions.js:147
+msgid "Settings"
+msgstr "Ajustes"
+
+#: blocks/block-customizations/src/attributes/postTitleOptions.js:150
+#, fuzzy
+msgid "Make title a link"
+msgstr "Hacer del título un enlace"
+
+#: blocks/block-customizations/src/attributes/postTitleOptions.js:158
+msgid "Open in new tab"
+msgstr "Abrir en una pestaña nueva"
+
+#: blocks/block-customizations/src/attributes/postTitleOptions.js:168
+#, fuzzy
+msgid "Link rel"
+msgstr "Enlace rel"
+
+#: blocks/block-customizations/src/attributes/queryFlexOption.js:62
+#, fuzzy
+msgid "Query Post Block Layout Settings"
+msgstr "Configuración del diseño del bloque de consulta"
+
+#: blocks/block-customizations/src/attributes/queryFlexOption.js:65
+#, fuzzy
+msgid "Use Flexbox on Each Post Block?"
+msgstr "¿Utilizar Flexbox en cada bloque de entrada?"
+
+#: blocks/block-customizations/src/attributes/queryResponsiveOptions.js:71
+msgid "Responsive Options"
+msgstr "Opciones Responsive"
+
+#: blocks/block-customizations/src/attributes/queryResponsiveOptions.js:75
+#: blocks/src/basic-grid/edit.js:138
+#, fuzzy
+msgid "Tablet Columns"
+msgstr "Columnas de tableta"
+
+#: blocks/block-customizations/src/attributes/queryResponsiveOptions.js:88
+#: blocks/src/basic-grid/edit.js:151
+#, fuzzy
+msgid "Mobile Columns"
+msgstr "Columnas móviles"
+
+#: blocks/build/author-social-icons/template.php:49
+#: blocks/build/social-share-content/template.php:60
+#: blocks/src/author-social-icons/edit.js:97
+#: blocks/src/author-social-icons/edit.js:170
+#: blocks/src/author-social-icons/template.php:49
+#: blocks/src/social-share-content/edit.js:94
+#: blocks/src/social-share-content/edit.js:163
+#: blocks/src/social-share-content/template.php:60
+msgid "Email"
+msgstr "Email"
+
+#: blocks/build/author-social-icons/template.php:54
+#: blocks/src/author-social-icons/edit.js:101
+#: blocks/src/author-social-icons/edit.js:175
+#: blocks/src/author-social-icons/template.php:54
+msgid "Website"
+msgstr "Sitio Web"
+
+#: blocks/build/breadcrumbs/template.php:22
+#: blocks/src/breadcrumbs/template.php:22
+msgid "Home"
+msgstr "Inicio"
+
+#: blocks/build/breadcrumbs/template.php:157
+#: blocks/src/breadcrumbs/template.php:157
+msgid "Articles posted by "
+msgstr "Artículos publicados por "
+
+#: blocks/build/breadcrumbs/template.php:160
+#: blocks/src/breadcrumbs/template.php:160
+msgid "Error 404"
+msgstr "Error 404"
+
+#: blocks/build/breadcrumbs/template.php:166
+#: blocks/src/breadcrumbs/template.php:166
+msgid "Page"
+msgstr "Página"
+
+#: blocks/build/download-category-search/template.php:30
+#: blocks/build/project-category-search/template.php:30
+#: blocks/src/download-category-search/template.php:30
+#: blocks/src/project-category-search/template.php:30
+msgid "Select a Category"
+msgstr "Seleccionar Categoría"
+
+#: blocks/build/download-search/template.php:22
+#: blocks/build/project-search/template.php:22
+#: blocks/build/search-field/template.php:22
+#: blocks/src/download-search/template.php:22
+#: blocks/src/project-search/template.php:22
+#: blocks/src/search-field/template.php:22
+msgctxt "placeholder"
+msgid "Search …"
+msgstr "Buscar..."
+
+#: blocks/build/download-search/template.php:22
+#: blocks/build/project-search/template.php:22
+#: blocks/build/search-field/template.php:22
+#: blocks/src/download-search/template.php:22
+#: blocks/src/project-search/template.php:22
+#: blocks/src/search-field/template.php:22
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar por:"
+
+#: blocks/build/project-client-search/template.php:43
+#: blocks/src/project-client-search/template.php:43
+#, fuzzy
+msgid "Select a Client"
+msgstr "Seleccione un cliente"
+
+#: blocks/build/project-information/template.php:35
+#: blocks/src/project-information/template.php:35
+msgid "Client:"
+msgstr "Cliente:"
+
+#: blocks/build/project-information/template.php:36
+#: blocks/src/project-information/template.php:36
+msgid "Date:"
+msgstr "Fecha:"
+
+#: blocks/build/project-information/template.php:37
+#: blocks/src/project-information/template.php:37
+msgid "Category:"
+msgstr "Categoría:"
+
+#: blocks/build/project-tag-search/template.php:30
+#: blocks/src/project-tag-search/template.php:30
+#, fuzzy
+msgid "Select a Tag"
+msgstr "Seleccione una etiqueta"
+
+#: blocks/build/search-filters-taxonomy/template.php:30
+#: blocks/src/search-filters-taxonomy/template.php:30
+#, fuzzy
+#| msgid "Select"
+msgid "Select a"
+msgstr "Seleccionar"
+
+#: blocks/src/accordion-body/edit.js:39 blocks/src/accordion-title/edit.js:64
+#, fuzzy
+msgid "Add a heading here..."
+msgstr "Añade un título aquí..."
+
+#: blocks/src/accordion/edit.js:36
+#, fuzzy
+msgid "Plus/Minus"
+msgstr "Más/Menos"
+
+#: blocks/src/accordion/edit.js:40
+msgid "Arrows"
+msgstr "Flechas"
+
+#: blocks/src/accordion/edit.js:65
+#, fuzzy
+msgid "Accordion Settings"
+msgstr "Configuración del acordeón"
+
+#: blocks/src/accordion/edit.js:67
+#, fuzzy
+msgid "Panel Id"
+msgstr "Id de panel"
+
+#: blocks/src/accordion/edit.js:73
+msgid "Icons"
+msgstr "Iconos"
+
+#: blocks/src/acf-block/edit.js:52
+#, fuzzy
+msgid "ACF Field Block Settings"
+msgstr "Marco Crosswinds y configuración de bloques"
+
+#: blocks/src/acf-block/edit.js:55
+msgid "Field Name"
+msgstr "Nombre del campo"
+
+#: blocks/src/author-social-icons/edit.js:77
+#: blocks/src/author-social-icons/edit.js:145
+#: blocks/src/social-share-content/edit.js:74
+#: blocks/src/social-share-content/edit.js:138
+msgid "Facebook"
+msgstr "Facebook"
+
+#: blocks/src/author-social-icons/edit.js:81
+#: blocks/src/author-social-icons/edit.js:150
+#: blocks/src/social-share-content/edit.js:78
+#: blocks/src/social-share-content/edit.js:143
+msgid "Twitter"
+msgstr "Twitter"
+
+#: blocks/src/author-social-icons/edit.js:85
+#: blocks/src/author-social-icons/edit.js:155
+#: blocks/src/social-share-content/edit.js:82
+#: blocks/src/social-share-content/edit.js:148
+#, fuzzy
+msgid "Mastodon"
+msgstr "Mastodonte"
+
+#: blocks/src/author-social-icons/edit.js:89
+#: blocks/src/author-social-icons/edit.js:160
+msgid "Instagram"
+msgstr "Instagram"
+
+#: blocks/src/author-social-icons/edit.js:93
+#: blocks/src/author-social-icons/edit.js:165
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: blocks/src/author-social-icons/edit.js:108
+#: blocks/src/social-share-content/edit.js:101
+#, fuzzy
+msgid "Show Icons and Labels"
+msgstr "Mostrar iconos y etiquetas"
+
+#: blocks/src/author-social-icons/edit.js:112
+#: blocks/src/social-share-content/edit.js:105
+#, fuzzy
+msgid "Show Icons Only"
+msgstr "Mostrar sólo iconos"
+
+#: blocks/src/author-social-icons/edit.js:116
+#: blocks/src/social-share-content/edit.js:109
+#, fuzzy
+msgid "Show Labels Only"
+msgstr "Mostrar sólo etiquetas"
+
+#: blocks/src/author-social-icons/edit.js:123
+#: blocks/src/social-share-content/edit.js:116 blocks/src/tabs/edit.js:83
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: blocks/src/author-social-icons/edit.js:127
+#: blocks/src/social-share-content/edit.js:120 blocks/src/tabs/edit.js:87
+msgid "Vertical"
+msgstr "Vertical"
+
+#: blocks/src/author-social-icons/edit.js:134
+#: blocks/src/social-share-content/edit.js:127
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: blocks/src/author-social-icons/edit.js:138
+#: blocks/src/social-share-content/edit.js:131
+#, fuzzy
+msgid "Auto Width"
+msgstr "Ancho automático"
+
+#: blocks/src/author-social-icons/edit.js:183
+#: blocks/src/social-share-content/edit.js:171
+#, fuzzy
+msgid "Social Share Content Settings"
+msgstr "Configuración del contenido para compartir en redes sociales"
+
+#: blocks/src/author-social-icons/edit.js:185
+#: blocks/src/social-share-content/edit.js:173
+msgid "Social Icons"
+msgstr "Iconos sociales"
+
+#: blocks/src/author-social-icons/edit.js:191
+#: blocks/src/social-share-content/edit.js:179
+msgid "Icon Styles"
+msgstr "Estilos de icono"
+
+#: blocks/src/author-social-icons/edit.js:199
+#: blocks/src/social-share-content/edit.js:187
+#, fuzzy
+msgid "Icons Direction"
+msgstr "Iconos Dirección"
+
+#: blocks/src/author-social-icons/edit.js:207
+#: blocks/src/social-share-content/edit.js:195
+#, fuzzy
+msgid "Icons Stretch"
+msgstr "Iconos Stretch"
+
+#: blocks/src/author-social-icons/edit.js:215
+#: blocks/src/social-share-content/edit.js:203
+msgid "Icon Border Radius"
+msgstr "Circunferencia de borde de ícono"
+
+#: blocks/src/author-social-icons/edit.js:230
+#: blocks/src/social-share-content/edit.js:218
+msgid "Icon Color"
+msgstr "Color de Icono"
+
+#: blocks/src/author-social-icons/edit.js:244
+#: blocks/src/social-share-content/edit.js:232
+msgid "Icon color"
+msgstr "Color del icono"
+
+#: blocks/src/author-social-icons/edit.js:256
+#: blocks/src/social-share-content/edit.js:244
+#, fuzzy
+msgid "Icon Hover color"
+msgstr "Icono Hover color"
+
+#: blocks/src/author-social-icons/edit.js:264
+#: blocks/src/social-share-content/edit.js:252
+msgid "Icon Background Color"
+msgstr "Fondo de Color del Ícono"
+
+#: blocks/src/author-social-icons/edit.js:278
+#: blocks/src/social-share-content/edit.js:266
+msgid "Icon Background color"
+msgstr "Fondo de Color del Ícono"
+
+#: blocks/src/author-social-icons/edit.js:290
+#: blocks/src/social-share-content/edit.js:278
+#, fuzzy
+msgid "Icon Background Hover color"
+msgstr "Icono Fondo Color Hover"
+
+#: blocks/src/basic-grid-item/edit.js:75
+#, fuzzy
+msgid "Grid Item Settings"
+msgstr "Configuración de los elementos de la cuadrícula"
+
+#: blocks/src/basic-grid-item/edit.js:77
+#, fuzzy
+msgid "Inner Layout"
+msgstr "Disposición interior"
+
+#: blocks/src/basic-grid-item/edit.js:86
+#, fuzzy
+msgid "Advanced Grid Item Settings"
+msgstr "Configuración avanzada de los elementos de la cuadrícula"
+
+#: blocks/src/basic-grid-item/edit.js:88
+#, fuzzy
+msgid "Desktop Column Span"
+msgstr "Extensión de columna de escritorio"
+
+#: blocks/src/basic-grid-item/edit.js:89
+#, fuzzy
+msgid "How many columns shout this grid item span at desktop screensizes."
+msgstr ""
+"Cuántas columnas gritar este elemento de cuadrícula abarcan en tamaños de "
+"pantalla de escritorio."
+
+#: blocks/src/basic-grid-item/edit.js:102
+#, fuzzy
+msgid "Desktop Row Span"
+msgstr "Extensión de la fila de escritorio"
+
+#: blocks/src/basic-grid-item/edit.js:103
+#, fuzzy
+msgid "How many rows shout this grid item span at desktop screensizes."
+msgstr ""
+"Cuántas filas grita este elemento de la cuadrícula a tamaño de pantalla de "
+"escritorio."
+
+#: blocks/src/basic-grid-item/edit.js:116
+#, fuzzy
+msgid "Tablet Column Span"
+msgstr "Envergadura de la columna de comprimidos"
+
+#: blocks/src/basic-grid-item/edit.js:117
+#, fuzzy
+msgid "How many columns shout this grid item span at tablet screensizes."
+msgstr ""
+"Cuántas columnas gritar este elemento de cuadrícula abarcan en tamaños de "
+"pantalla de tableta."
+
+#: blocks/src/basic-grid-item/edit.js:130
+#, fuzzy
+msgid "Tablet Row Span"
+msgstr "Extensión de la fila de tabletas"
+
+#: blocks/src/basic-grid-item/edit.js:131
+#, fuzzy
+msgid "How many rows shout this grid item span at tablet screensizes."
+msgstr ""
+"Cuántas filas grita este elemento de la cuadrícula en tamaños de pantalla de "
+"tableta."
+
+#: blocks/src/basic-grid-item/edit.js:144
+#, fuzzy
+msgid "Mobile Column Span"
+msgstr "Extensión de columna móvil"
+
+#: blocks/src/basic-grid-item/edit.js:145
+#, fuzzy
+msgid "How many columns shout this grid item span at mobile screensizes."
+msgstr ""
+"Cuántas columnas grita este elemento de la cuadrícula en tamaños de pantalla "
+"móvil."
+
+#: blocks/src/basic-grid-item/edit.js:158
+#, fuzzy
+msgid "Mobile Row Span"
+msgstr "Envergadura de la fila móvil"
+
+#: blocks/src/basic-grid-item/edit.js:159
+#, fuzzy
+msgid "How many rows shout this grid item span at mobile screensizes."
+msgstr ""
+"Cuántas filas grita este elemento de la cuadrícula en tamaños de pantalla "
+"móvil."
+
+#: blocks/src/basic-grid/edit.js:53
+msgid "Grid Column Gap"
+msgstr "Espacio de columna de cuadrícula"
+
+#: blocks/src/basic-grid/edit.js:66
+#, fuzzy
+msgid "Grid Row Gap"
+msgstr "Distancia entre filas"
+
+#: blocks/src/basic-grid/edit.js:86
+msgid "Grid Gap"
+msgstr "Brecha de cuadrícula"
+
+#: blocks/src/basic-grid/edit.js:123
+#, fuzzy
+msgid "Basic Grid Settings"
+msgstr "Configuración básica de la cuadrícula"
+
+#: blocks/src/basic-grid/edit.js:125
+#, fuzzy
+msgid "Desktop Columns"
+msgstr "Columnas de escritorio"
+
+#: blocks/src/basic-grid/edit.js:164
+#, fuzzy
+msgid "Grid Spacing Settings"
+msgstr "Ajustes de espaciado de cuadrícula"
+
+#: blocks/src/basic-grid/edit.js:166
+#, fuzzy
+msgid "Use Same Spacing for Columns and Rows?"
+msgstr "¿Utilizar el mismo espaciado para columnas y filas?"
+
+#: blocks/src/breadcrumbs/edit.js:73
+msgid "Arrow Right"
+msgstr "Flecha derecha"
+
+#: blocks/src/breadcrumbs/edit.js:77 blocks/src/breadcrumbs/edit.js:81
+msgid "Chevron Right"
+msgstr "Chevron Derecho"
+
+#: blocks/src/breadcrumbs/edit.js:85
+msgid "Long Arrow Right"
+msgstr "Flecha larga a la derecha"
+
+#: blocks/src/breadcrumbs/edit.js:105
+#, fuzzy
+msgid "Breadcrumbs Settings"
+msgstr "Configuración de las migas de pan"
+
+#: blocks/src/breadcrumbs/edit.js:107
+#, fuzzy
+msgid "Separator Icon"
+msgstr "Icono separador"
+
+#: blocks/src/breadcrumbs/edit.js:116
+#, fuzzy
+msgid "Add Schema to Breadcrumbs"
+msgstr "Añadir esquema a las migas de pan"
+
+#: blocks/src/breadcrumbs/edit.js:117
+#, fuzzy
+msgid "Turn off if your SEO plugin (like Yoast SEO) already adds this for you."
+msgstr "Desactívalo si tu plugin SEO (como Yoast SEO) ya lo añade por ti."
+
+#: blocks/src/comments-number/edit.js:60
+msgid "Comment"
+msgstr "Comentario"
+
+#: blocks/src/comments-number/edit.js:66
+msgid "Comments"
+msgstr "Comentarios"
+
+#: blocks/src/comments-number/edit.js:73
+#, fuzzy
+msgid "Comments Number Settings"
+msgstr "Configuración de la búsqueda de clientes"
+
+#: blocks/src/comments-number/edit.js:76
+#, fuzzy
+msgid "Singular Comment Text"
+msgstr "Contenido único"
+
+#: blocks/src/comments-number/edit.js:84
+#, fuzzy
+msgid "Plural Comment Text"
+msgstr "Plural Comentario Texto"
+
+#: blocks/src/copyright/edit.js:57
+#, fuzzy
+msgid "Icon and Text"
+msgstr "Icono y texto"
+
+#: blocks/src/copyright/edit.js:61
+msgid "Icon Only"
+msgstr "Sólo icono"
+
+#: blocks/src/copyright/edit.js:65
+msgid "Text Only"
+msgstr "Solo Texto"
+
+#: blocks/src/copyright/edit.js:72
+msgid "Copyright Settings"
+msgstr "Configuración de copyright"
+
+#: blocks/src/copyright/edit.js:74
+#, fuzzy
+msgid "Copyright Type"
+msgstr "Tipo de copyright"
+
+#: blocks/src/copyright/edit.js:83
+msgid "Copyright Text"
+msgstr "Derechos de autor"
+
+#: blocks/src/download-category-search/edit.js:68
+#: blocks/src/project-category-search/edit.js:68
+#: blocks/src/project-tag-search/edit.js:68
+msgid "Category Search Settings"
+msgstr "Ajustes de búsqueda por categoría"
+
+#: blocks/src/download-category-search/edit.js:70
+#: blocks/src/download-search/edit.js:59
+#: blocks/src/project-category-search/edit.js:70
+#: blocks/src/project-client-search/edit.js:52
+#: blocks/src/project-search/edit.js:59
+#: blocks/src/project-tag-search/edit.js:70 blocks/src/search-field/edit.js:59
+#: blocks/src/search-filters-taxonomy/edit.js:72
+msgid "Label"
+msgstr "Etiqueta"
+
+#: blocks/src/download-search-filters-buttons/edit.js:59
+#: blocks/src/project-search-filters-buttons/edit.js:59
+#: blocks/src/search-filters-buttons/edit.js:59
+msgid "Label Settings"
+msgstr "Ajustes de etiquetas"
+
+#: blocks/src/download-search-filters-buttons/edit.js:61
+#: blocks/src/project-search-filters-buttons/edit.js:61
+#: blocks/src/search-filters-buttons/edit.js:61
+#, fuzzy
+msgid "Search Button Label"
+msgstr "Etiqueta del botón de búsqueda"
+
+#: blocks/src/download-search-filters-buttons/edit.js:68
+#: blocks/src/project-search-filters-buttons/edit.js:68
+#: blocks/src/search-filters-buttons/edit.js:68
+#, fuzzy
+msgid "Reset Button Label"
+msgstr "Etiqueta del botón de reinicio"
+
+#: blocks/src/download-search-filters-buttons/edit.js:77
+#: blocks/src/project-search-filters-buttons/edit.js:77
+#: blocks/src/search-filters-buttons/edit.js:77
+#, fuzzy
+msgid "Clear Background Color"
+msgstr "Color de fondo claro"
+
+#: blocks/src/download-search-filters-buttons/edit.js:89
+#: blocks/src/project-search-filters-buttons/edit.js:89
+#: blocks/src/search-filters-buttons/edit.js:89
+#, fuzzy
+msgid "Clear Background color"
+msgstr "Claro Color de fondo"
+
+#: blocks/src/download-search-filters-buttons/edit.js:97
+#: blocks/src/project-search-filters-buttons/edit.js:97
+#: blocks/src/search-filters-buttons/edit.js:97
+#, fuzzy
+msgid "Submit Background Color"
+msgstr "Enviar color de fondo"
+
+#: blocks/src/download-search-filters-buttons/edit.js:109
+#: blocks/src/project-search-filters-buttons/edit.js:109
+#: blocks/src/search-filters-buttons/edit.js:109
+#, fuzzy
+msgid "Submit Background color"
+msgstr "Enviar Color de fondo"
+
+#: blocks/src/download-search/edit.js:57 blocks/src/project-search/edit.js:57
+#: blocks/src/search-field/edit.js:57
+msgid "Search Settings"
+msgstr "Configuración de Búsqueda"
+
+#: blocks/src/google-maps/edit.js:58
+msgid "Map Height"
+msgstr "Altura de Mapa"
+
+#: blocks/src/google-maps/edit.js:74
+msgid "Google Maps Settings"
+msgstr "Ajustes de Google Maps"
+
+#: blocks/src/google-maps/edit.js:77
+#, fuzzy
+msgid "Address Line One"
+msgstr "Dirección Línea Uno"
+
+#: blocks/src/google-maps/edit.js:83
+#, fuzzy
+msgid "Address Line Two"
+msgstr "Dirección Línea Dos"
+
+#: blocks/src/google-maps/edit.js:89
+msgid "City"
+msgstr "Ciudad"
+
+#: blocks/src/google-maps/edit.js:95
+msgid "State/Province"
+msgstr "Estado/ Provincia"
+
+#: blocks/src/google-maps/edit.js:101
+msgid "Country"
+msgstr "País"
+
+#: blocks/src/google-maps/edit.js:107
+msgid "ZIP Code"
+msgstr "Código postal"
+
+#: blocks/src/google-maps/edit.js:137
+#, fuzzy
+msgid "Placeholder Google Map"
+msgstr "Marcador de posición Google Map"
+
+#: blocks/src/marquee/edit.js:44
+#, fuzzy
+msgid "Marquee Settings"
+msgstr "Ajustes del marco"
+
+#: blocks/src/marquee/edit.js:47
+#, fuzzy
+msgid "Marquee width"
+msgstr "Anchura de la marquesina"
+
+#: blocks/src/marquee/edit.js:62
+#, fuzzy
+msgid "Marquee speed"
+msgstr "Velocidad de la marquesina"
+
+#: blocks/src/marquee/edit.js:63
+#, fuzzy
+msgid ""
+"Speed is measured in seconds. The higher the number, the slower the marquee "
+"will go."
+msgstr ""
+"La velocidad se mide en segundos. Cuanto mayor sea el número, más despacio "
+"irá la marquesina."
+
+#: blocks/src/marquee/edit.js:93
+#, fuzzy
+msgid "Marquee text here..."
+msgstr "Texto de la marquesina aquí..."
+
+#: blocks/src/project-client-search/edit.js:50
+#, fuzzy
+msgid "Client Search Settings"
+msgstr "Configuración de la búsqueda de clientes"
+
+#: blocks/src/project-client-search/edit.js:70
+#, fuzzy
+msgid "Clients will appear on the front end"
+msgstr "Los clientes aparecerán en la portada"
+
+#: blocks/src/project-information/edit.js:78
+msgid "Client: "
+msgstr "Cliente: "
+
+#: blocks/src/project-information/edit.js:85
+msgid "Date: "
+msgstr "Fecha: "
+
+#: blocks/src/project-information/edit.js:93
+#, fuzzy
+msgid "Project Client"
+msgstr "Cliente del proyecto"
+
+#: blocks/src/project-information/edit.js:97
+msgid "Project Date"
+msgstr "Fecha del proyecto"
+
+#: blocks/src/project-information/edit.js:116
+msgid "Category: "
+msgstr "Categoría: "
+
+#: blocks/src/search-filters-taxonomy/edit.js:70
+#, fuzzy
+#| msgid "Category Search Settings"
+msgid "Taxonomy Search Settings"
+msgstr "Ajustes de búsqueda por categoría"
+
+#: blocks/src/search-filters/edit.js:56
+#: blocks/src/single-post-types-search-results/edit.js:61
+#, fuzzy
+#| msgid "Search Settings"
+msgid "Search Filters Settings"
+msgstr "Configuración de Búsqueda"
+
+#: blocks/src/search-filters/edit.js:59
+#: blocks/src/single-post-types-search-results/edit.js:64
+msgid "Select a Post Type"
+msgstr "Seleccione un tipo de publicación"
+
+#: blocks/src/single-content/edit.js:69
+#, fuzzy
+msgid "Featured Content Settings"
+msgstr "Configuración de contenidos destacados"
+
+#: blocks/src/single-content/edit.js:72
+msgid "Select"
+msgstr "Seleccionar"
+
+#: blocks/src/single-content/edit.js:127
+#, fuzzy
+msgid "Please select a post or other custom post type item from the right side"
+msgstr ""
+"Seleccione una entrada u otro tipo de entrada personalizada de la parte "
+"derecha"
+
+#: blocks/src/single-post-types-search-results/edit.js:44
+msgid "All Post Types"
+msgstr "Todos los Tipos de publicación"
+
+#: blocks/src/skills-slider/edit.js:49
+#, fuzzy
+msgid "Skill Slider Settings"
+msgstr "Ajustes del deslizador de habilidades"
+
+#: blocks/src/skills-slider/edit.js:52
+#, fuzzy
+msgid "Slider width"
+msgstr "Anchura de la corredera"
+
+#: blocks/src/skills-slider/edit.js:67
+msgid "Slider height"
+msgstr "Altura del Slide"
+
+#: blocks/src/skills-slider/edit.js:83
+msgid "Color"
+msgstr "Color"
+
+#: blocks/src/skills-slider/edit.js:97
+#, fuzzy
+msgid "Slider color"
+msgstr "Color del deslizador"
+
+#: blocks/src/skills-slider/edit.js:109 blocks/src/tabs/edit.js:331
+msgid "Background color"
+msgstr "Color de fondo"
+
+#: blocks/src/social-share-content/edit.js:86
+#: blocks/src/social-share-content/edit.js:153
+msgid "Reddit"
+msgstr "Reddit"
+
+#: blocks/src/social-share-content/edit.js:90
+#: blocks/src/social-share-content/edit.js:158
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: blocks/src/tab-section/edit.js:55
+#, fuzzy
+msgid "Tab Settings"
+msgstr "Configuración de pestañas"
+
+#: blocks/src/tab-section/edit.js:57
+msgid "Tab Id"
+msgstr "ID de pestaña"
+
+#: blocks/src/tabs/edit.js:94
+#, fuzzy
+msgid "Start (Top/Left)"
+msgstr "Inicio (Arriba/Izquierda)"
+
+#: blocks/src/tabs/edit.js:98
+#, fuzzy
+msgid "End (Bottom/Right)"
+msgstr "Extremo (inferior/derecho)"
+
+#: blocks/src/tabs/edit.js:102
+msgid "Center"
+msgstr "Centrar"
+
+#: blocks/src/tabs/edit.js:106
+msgid "Equal"
+msgstr "Igual"
+
+#: blocks/src/tabs/edit.js:184
+#, fuzzy
+msgid "Tabs Settings"
+msgstr "Configuración de pestañas"
+
+#: blocks/src/tabs/edit.js:189
+msgid "Add Tab"
+msgstr "Agregar pestaña"
+
+#: blocks/src/tabs/edit.js:193
+#, fuzzy
+msgid "Align Tabs"
+msgstr "Alinear pestañas"
+
+#: blocks/src/tabs/edit.js:202
+msgid "Tabs Spacing"
+msgstr "Espacio entre pestañas"
+
+#: blocks/src/tabs/edit.js:211
+msgid "Tabs Styling"
+msgstr "Pestañas Estilo"
+
+#: blocks/src/tabs/edit.js:213
+#, fuzzy
+msgid "Separator width"
+msgstr "Anchura del separador"
+
+#: blocks/src/tabs/edit.js:226
+#, fuzzy
+msgid "Tabs Borders width"
+msgstr "Ancho de los bordes de las pestañas"
+
+#: blocks/src/tabs/edit.js:239
+#, fuzzy
+msgid "Tabs Padding Top/Bottom"
+msgstr "Pestañas Relleno superior/inferior"
+
+#: blocks/src/tabs/edit.js:252
+#, fuzzy
+msgid "Tabs Padding Left/Right"
+msgstr "Tabulaciones Relleno Izquierda/Derecha"
+
+#: blocks/src/tabs/edit.js:266
+msgid "Border Colors"
+msgstr ""
+"Seleccione los colores del borde para el estado normal y para el campo "
+"activo (centrado)"
+
+#: blocks/src/tabs/edit.js:278
+msgid "Separator color"
+msgstr "color del separador"
+
+#: blocks/src/tabs/edit.js:288
+#, fuzzy
+msgid "Tab borders color"
+msgstr "Color de los bordes de las pestañas"
+
+#: blocks/src/tabs/edit.js:297
+#, fuzzy
+msgid "Tab Colors"
+msgstr "Colores de las pestañas"
+
+#: blocks/src/tabs/edit.js:309
+msgid "Text color"
+msgstr "Color de texto"
+
+#: blocks/src/tabs/edit.js:321
+#, fuzzy
+msgid "Text Hover color"
+msgstr "Color del texto sobreimpresionado"
+
+#: blocks/src/tabs/edit.js:343
+#, fuzzy
+msgid "Background Hover color"
+msgstr "Color de fondo por encima"
+
+#: includes/class-crosswinds-blocks-setup.php:37
+msgid "Project"
+msgstr "Proyecto"
+
+#: includes/class-crosswinds-blocks-setup.php:38
+msgctxt "Project"
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+#: includes/class-crosswinds-blocks-setup.php:39
+msgid "Add New Project"
+msgstr "Agregar Proyecto"
+
+#: includes/class-crosswinds-blocks-setup.php:40
+msgid "Edit Item"
+msgstr "Modificar artículo"
+
+#: includes/class-crosswinds-blocks-setup.php:41
+msgid "New Item"
+msgstr "Nuevo Artículo"
+
+#: includes/class-crosswinds-blocks-setup.php:42
+msgid "View Item"
+msgstr "Ver artículo"
+
+#: includes/class-crosswinds-blocks-setup.php:43
+msgid "Search Project"
+msgstr "Buscar Proyecto"
+
+#: includes/class-crosswinds-blocks-setup.php:44
+msgid "No Projects found"
+msgstr "No se encontraron proyectos"
+
+#: includes/class-crosswinds-blocks-setup.php:45
+msgid "No Projects found in Trash"
+msgstr "No hemos encontrado servicios parroquiales en la papelera"
+
+#: includes/class-crosswinds-blocks-setup.php:86
+msgid "Video"
+msgstr "Video"
+
+#: includes/class-crosswinds-blocks-setup.php:87
+msgctxt "Video"
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+#: includes/class-crosswinds-blocks-setup.php:88
+msgid "Add New Video"
+msgstr "Añadir nuevo vídeo"
+
+#: includes/class-crosswinds-blocks-setup.php:89
+msgid "Edit Video"
+msgstr "Editar vídeo"
+
+#: includes/class-crosswinds-blocks-setup.php:90
+msgid "New Video"
+msgstr "Nuevo video"
+
+#: includes/class-crosswinds-blocks-setup.php:91
+msgid "View Video"
+msgstr "Ver video"
+
+#: includes/class-crosswinds-blocks-setup.php:92
+#, fuzzy
+#| msgctxt "label"
+#| msgid "Search for:"
+msgid "Search Video"
+msgstr "Buscar por:"
+
+#: includes/class-crosswinds-blocks-setup.php:93
+#, fuzzy
+#| msgid "No Projects found"
+msgid "No Video found"
+msgstr "No se encontraron proyectos"
+
+#: includes/class-crosswinds-blocks-setup.php:94
+#, fuzzy
+#| msgid "No Projects found in Trash"
+msgid "No Video found in Trash"
+msgstr "No hemos encontrado servicios parroquiales en la papelera"
+
+#: includes/class-crosswinds-blocks-setup.php:115
+#, fuzzy
+msgid "Resource"
+msgstr "Recursos"
+
+#: includes/class-crosswinds-blocks-setup.php:116
+msgctxt "Resource"
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+#: includes/class-crosswinds-blocks-setup.php:117
+#, fuzzy
+#| msgid "Add New Category"
+msgid "Add New Resource"
+msgstr "Agregar Nueva Categoría"
+
+#: includes/class-crosswinds-blocks-setup.php:118
+msgid "Edit Resource"
+msgstr "Editar recurso"
+
+#: includes/class-crosswinds-blocks-setup.php:119
+msgid "New Resource"
+msgstr "Nuevo recurso"
+
+#: includes/class-crosswinds-blocks-setup.php:120
+msgid "View Resource"
+msgstr "Ver recurso"
+
+#: includes/class-crosswinds-blocks-setup.php:121
+#, fuzzy
+#| msgctxt "label"
+#| msgid "Search for:"
+msgid "Search Resource"
+msgstr "Buscar por:"
+
+#: includes/class-crosswinds-blocks-setup.php:122
+msgid "No Resource found"
+msgstr "No se ha encontrado ningún recurso"
+
+#: includes/class-crosswinds-blocks-setup.php:123
+#, fuzzy
+#| msgid "No Projects found in Trash"
+msgid "No Resource found in Trash"
+msgstr "No hemos encontrado servicios parroquiales en la papelera"
+
+#: includes/class-crosswinds-blocks-setup.php:144
+msgid "Guide"
+msgstr "Guiar"
+
+#: includes/class-crosswinds-blocks-setup.php:145
+msgctxt "Guide"
+msgid "Add New"
+msgstr "Agregar Nuevo"
+
+#: includes/class-crosswinds-blocks-setup.php:146
+#, fuzzy
+#| msgctxt "Project"
+#| msgid "Add New"
+msgid "Add New Guide"
+msgstr "Agregar Nuevo"
+
+#: includes/class-crosswinds-blocks-setup.php:147
+#, fuzzy
+#| msgid "Edit Item"
+msgid "Edit Guide"
+msgstr "Modificar artículo"
+
+#: includes/class-crosswinds-blocks-setup.php:148
+#, fuzzy
+msgid "New Guide"
+msgstr "Nueva Guía"
+
+#: includes/class-crosswinds-blocks-setup.php:149
+#, fuzzy
+#| msgid "View Item"
+msgid "View Guide"
+msgstr "Ver artículo"
+
+#: includes/class-crosswinds-blocks-setup.php:150
+#, fuzzy
+#| msgctxt "placeholder"
+#| msgid "Search …"
+msgid "Search Guide"
+msgstr "Buscar..."
+
+#: includes/class-crosswinds-blocks-setup.php:151
+#, fuzzy
+#| msgid "No Projects found"
+msgid "No Guide found"
+msgstr "No se encontraron proyectos"
+
+#: includes/class-crosswinds-blocks-setup.php:152
+#, fuzzy
+#| msgid "No Projects found in Trash"
+msgid "No Guide found in Trash"
+msgstr "No hemos encontrado servicios parroquiales en la papelera"
+
+#: includes/class-crosswinds-blocks-setup.php:185
+msgid "Project Categories"
+msgstr "Categorías de proyectos"
+
+#: includes/class-crosswinds-blocks-setup.php:187
+#: includes/class-crosswinds-blocks-setup.php:313
+#: includes/class-crosswinds-blocks-setup.php:376
+msgid "Search Categories"
+msgstr "Buscar Categorías"
+
+#: includes/class-crosswinds-blocks-setup.php:188
+#: includes/class-crosswinds-blocks-setup.php:314
+#: includes/class-crosswinds-blocks-setup.php:377
+msgid "All Categories"
+msgstr "Todas las Categorías"
+
+#: includes/class-crosswinds-blocks-setup.php:189
+#: includes/class-crosswinds-blocks-setup.php:315
+#: includes/class-crosswinds-blocks-setup.php:378
+msgid "Parent Category"
+msgstr "Categoría Padre"
+
+#: includes/class-crosswinds-blocks-setup.php:190
+#: includes/class-crosswinds-blocks-setup.php:316
+#: includes/class-crosswinds-blocks-setup.php:379
+msgid "Parent Category:"
+msgstr "Categoría Padre:"
+
+#: includes/class-crosswinds-blocks-setup.php:191
+#: includes/class-crosswinds-blocks-setup.php:317
+#: includes/class-crosswinds-blocks-setup.php:380
+msgid "Edit Category"
+msgstr "Editar Categoría"
+
+#: includes/class-crosswinds-blocks-setup.php:192
+#: includes/class-crosswinds-blocks-setup.php:318
+#: includes/class-crosswinds-blocks-setup.php:381
+msgid "Update Category"
+msgstr "Actualizar Categoría"
+
+#: includes/class-crosswinds-blocks-setup.php:193
+#: includes/class-crosswinds-blocks-setup.php:319
+#: includes/class-crosswinds-blocks-setup.php:382
+msgid "Add New Category"
+msgstr "Agregar Nueva Categoría"
+
+#: includes/class-crosswinds-blocks-setup.php:194
+#: includes/class-crosswinds-blocks-setup.php:320
+#: includes/class-crosswinds-blocks-setup.php:383
+msgid "New Category Name"
+msgstr "Nombre Nueva Categoría"
+
+#: includes/class-crosswinds-blocks-setup.php:195
+#: includes/class-crosswinds-blocks-setup.php:321
+#: includes/class-crosswinds-blocks-setup.php:384
+msgid "Choose from the most used categories"
+msgstr "Elija entre las categorías más utilizadas"
+
+#: includes/class-crosswinds-blocks-setup.php:214
+msgid "Project Tags"
+msgstr "Etiquetas de proyecto"
+
+#: includes/class-crosswinds-blocks-setup.php:216
+#: includes/class-crosswinds-blocks-setup.php:342
+#: includes/class-crosswinds-blocks-setup.php:405
+msgid "Search Tags"
+msgstr "Etiquetas de búsqueda"
+
+#: includes/class-crosswinds-blocks-setup.php:217
+#: includes/class-crosswinds-blocks-setup.php:343
+#: includes/class-crosswinds-blocks-setup.php:406
+msgid "All Tags"
+msgstr "Todas las Etiquetas"
+
+#: includes/class-crosswinds-blocks-setup.php:218
+#: includes/class-crosswinds-blocks-setup.php:344
+#: includes/class-crosswinds-blocks-setup.php:407
+msgid "Parent Tag"
+msgstr "Etiqueta principal"
+
+#: includes/class-crosswinds-blocks-setup.php:219
+#: includes/class-crosswinds-blocks-setup.php:345
+#: includes/class-crosswinds-blocks-setup.php:408
+msgid "Parent Tag:"
+msgstr "Etiqueta principal:"
+
+#: includes/class-crosswinds-blocks-setup.php:220
+#: includes/class-crosswinds-blocks-setup.php:346
+#: includes/class-crosswinds-blocks-setup.php:409
+msgid "Edit Tag"
+msgstr "Editar etiqueta"
+
+#: includes/class-crosswinds-blocks-setup.php:221
+#: includes/class-crosswinds-blocks-setup.php:347
+#: includes/class-crosswinds-blocks-setup.php:410
+msgid "Update Tag"
+msgstr "Actualizar etiqueta"
+
+#: includes/class-crosswinds-blocks-setup.php:222
+#: includes/class-crosswinds-blocks-setup.php:348
+#: includes/class-crosswinds-blocks-setup.php:411
+msgid "Add New Tag"
+msgstr "Añadir Nueva etiqueta"
+
+#: includes/class-crosswinds-blocks-setup.php:223
+#: includes/class-crosswinds-blocks-setup.php:349
+#: includes/class-crosswinds-blocks-setup.php:412
+msgid "New Tag Name"
+msgstr "Nuevo nombre de etiqueta"
+
+#: includes/class-crosswinds-blocks-setup.php:224
+#: includes/class-crosswinds-blocks-setup.php:350
+#: includes/class-crosswinds-blocks-setup.php:413
+msgid "Choose from the most used tags"
+msgstr "Elija entre las etiquetas más utilizadas"
+
+#: includes/class-crosswinds-blocks-setup.php:248
+#, fuzzy
+msgid "Video Playlists"
+msgstr "Listas de reproducción de vídeos"
+
+#: includes/class-crosswinds-blocks-setup.php:250
+#, fuzzy
+#| msgid "Search Tags"
+msgid "Search Playlists"
+msgstr "Etiquetas de búsqueda"
+
+#: includes/class-crosswinds-blocks-setup.php:251
+#, fuzzy
+msgid "All Playlists"
+msgstr "Todas las listas de reproducción"
+
+#: includes/class-crosswinds-blocks-setup.php:252
+#, fuzzy
+#| msgid "Parent Tag"
+msgid "Parent Playlist"
+msgstr "Etiqueta principal"
+
+#: includes/class-crosswinds-blocks-setup.php:253
+#, fuzzy
+#| msgid "Parent Tag:"
+msgid "Parent Playlist:"
+msgstr "Etiqueta principal:"
+
+#: includes/class-crosswinds-blocks-setup.php:254
+#, fuzzy
+msgid "Edit Playlist"
+msgstr "Editar lista de reproducción"
+
+#: includes/class-crosswinds-blocks-setup.php:255
+#, fuzzy
+#| msgid "Update Tag"
+msgid "Update Playlist"
+msgstr "Actualizar etiqueta"
+
+#: includes/class-crosswinds-blocks-setup.php:256
+#, fuzzy
+#| msgid "Add New Tag"
+msgid "Add New Playlist"
+msgstr "Añadir Nueva etiqueta"
+
+#: includes/class-crosswinds-blocks-setup.php:257
+#, fuzzy
+#| msgid "New Tag Name"
+msgid "New Playlist Name"
+msgstr "Nuevo nombre de etiqueta"
+
+#: includes/class-crosswinds-blocks-setup.php:258
+#, fuzzy
+#| msgid "Choose from the most used tags"
+msgid "Choose from the most used playlists"
+msgstr "Elija entre las etiquetas más utilizadas"
+
+#: includes/class-crosswinds-blocks-setup.php:277
+#, fuzzy
+msgid "Video Topics"
+msgstr "Temas de vídeo"
+
+#: includes/class-crosswinds-blocks-setup.php:279
+msgid "Search Topics"
+msgstr "Buscar Temas"
+
+#: includes/class-crosswinds-blocks-setup.php:280
+msgid "All Topics"
+msgstr "Todos Temas"
+
+#: includes/class-crosswinds-blocks-setup.php:281
+msgid "Parent Topic"
+msgstr "Tema Padre"
+
+#: includes/class-crosswinds-blocks-setup.php:282
+msgid "Parent Topic:"
+msgstr "Tema principal:"
+
+#: includes/class-crosswinds-blocks-setup.php:283
+msgid "Edit Topic"
+msgstr "Edite el tema"
+
+#: includes/class-crosswinds-blocks-setup.php:284
+msgid "Update Topic"
+msgstr "Actualice el tema"
+
+#: includes/class-crosswinds-blocks-setup.php:285
+msgid "Add New Topic"
+msgstr "Añade un nuevo tema"
+
+#: includes/class-crosswinds-blocks-setup.php:286
+#, fuzzy
+#| msgid "New Tag Name"
+msgid "New Topic Name"
+msgstr "Nuevo nombre de etiqueta"
+
+#: includes/class-crosswinds-blocks-setup.php:287
+#, fuzzy
+#| msgid "Choose from the most used tags"
+msgid "Choose from the most used topic"
+msgstr "Elija entre las etiquetas más utilizadas"
+
+#: includes/class-crosswinds-blocks-setup.php:311
+#, fuzzy
+#| msgid "Search Categories"
+msgid "Resource Categories"
+msgstr "Buscar Categorías"
+
+#: includes/class-crosswinds-blocks-setup.php:340
+#, fuzzy
+#| msgid "Search Tags"
+msgid "Resource Tags"
+msgstr "Etiquetas de búsqueda"
+
+#: includes/class-crosswinds-blocks-setup.php:374
+#, fuzzy
+#| msgid "All Categories"
+msgid "Guide Categories"
+msgstr "Todas las Categorías"
+
+#: includes/class-crosswinds-blocks-setup.php:403
+#, fuzzy
+#| msgid "Update Tag"
+msgid "Guide Tags"
+msgstr "Actualizar etiqueta"
+
+#: patterns/accordions/accordion-with-border-and-title-background.php:8
+#: patterns/accordions/basic-accordion.php:8
+#, fuzzy
+msgid "Basic Accordion"
+msgstr "Acordeón básico"
+
+#: patterns/accordions/accordion-with-border-and-title-background.php:15
+#: patterns/accordions/accordion-with-border-and-title-background.php:29
+#: patterns/accordions/accordion-with-border-and-title-background.php:43
+#: patterns/accordions/basic-accordion.php:15
+#: patterns/accordions/basic-accordion.php:29
+#: patterns/accordions/basic-accordion.php:43
+#, fuzzy
+msgid "This is a heading"
+msgstr "Se trata de una rúbrica"
+
+#: patterns/featured-content/featured-content-block-row-photo-left.php:18
+#, fuzzy
+msgid "Featured Content - Row with Left Photo"
+msgstr "Contenido destacado - Fila con foto a la izquierda"
+
+#: patterns/featured-content/featured-content-block-row-photo-left.php:31
+#: patterns/featured-content/featured-content-block-row-photo-right.php:27
+#: patterns/featured-content/featured-content-column-pattern.php:27
+#: patterns/post-navigation/post-navigation-section.php:19
+#: patterns/post-navigation/post-navigation-section.php:29
+#: patterns/single-posts/single-post-horizontal.php:29
+#: patterns/single-posts/single-post-vertical.php:18
+#, fuzzy
+msgid "Read This Post"
+msgstr "Leer este post"
+
+#: patterns/featured-content/featured-content-block-row-photo-right.php:18
+#, fuzzy
+msgid "Featured Content - Row with Right Photo"
+msgstr "Contenido destacado - Fila con foto a la derecha"
+
+#: patterns/featured-content/featured-content-column-pattern.php:18
+#, fuzzy
+msgid "Featured Content - Column"
+msgstr "Contenido destacado - Columna"
+
+#: patterns/grid-layouts/grid-layout-1.php:8
+#, fuzzy
+msgid "Grid Layout 1"
+msgstr "Disposición de la cuadrícula 1"
+
+#: patterns/grid-layouts/grid-layout-1.php:14
+#: patterns/grid-layouts/grid-layout-1.php:26
+#: patterns/grid-layouts/grid-layout-1.php:38
+#: patterns/grid-layouts/grid-layout-1.php:50
+#: patterns/grid-layouts/grid-layout-2.php:14
+#: patterns/grid-layouts/grid-layout-2.php:26
+#: patterns/grid-layouts/grid-layout-2.php:38
+#: patterns/grid-layouts/grid-layout-2.php:50
+#: patterns/grid-layouts/grid-layout-3.php:14
+#: patterns/grid-layouts/grid-layout-3.php:26
+#: patterns/grid-layouts/grid-layout-3.php:38
+#: patterns/grid-layouts/grid-layout-3.php:50
+#: patterns/grid-layouts/grid-layout-3.php:62
+#: patterns/grid-layouts/grid-layout-3.php:74
+#, fuzzy
+msgid "Insert your heading here..."
+msgstr "Inserte aquí su encabezamiento..."
+
+#: patterns/grid-layouts/grid-layout-1.php:18
+#: patterns/grid-layouts/grid-layout-1.php:30
+#: patterns/grid-layouts/grid-layout-1.php:42
+#: patterns/grid-layouts/grid-layout-1.php:54
+#: patterns/grid-layouts/grid-layout-2.php:18
+#: patterns/grid-layouts/grid-layout-2.php:30
+#: patterns/grid-layouts/grid-layout-2.php:42
+#: patterns/grid-layouts/grid-layout-2.php:54
+#: patterns/grid-layouts/grid-layout-3.php:18
+#: patterns/grid-layouts/grid-layout-3.php:30
+#: patterns/grid-layouts/grid-layout-3.php:42
+#: patterns/grid-layouts/grid-layout-3.php:54
+#: patterns/grid-layouts/grid-layout-3.php:66
+#: patterns/grid-layouts/grid-layout-3.php:78
+#, fuzzy
+msgid "Write some description text here..."
+msgstr "Escriba aquí algún texto descriptivo..."
+
+#: patterns/grid-layouts/grid-layout-2.php:8
+#, fuzzy
+msgid "Grid Layout 2"
+msgstr "Diseño de cuadrícula 2"
+
+#: patterns/grid-layouts/grid-layout-3.php:8
+#, fuzzy
+msgid "Grid Layout 3"
+msgstr "Diseño de cuadrícula 3"
+
+#: patterns/post-navigation/post-navigation-section.php:8
+#, fuzzy
+msgid "Post Navigation Section"
+msgstr "Sección de navegación del puesto"
+
+#: patterns/related-posts/related-posts-section.php:8
+msgid "Related Posts Section"
+msgstr "Sección de Artículos Relacionados"
+
+#: patterns/single-posts/single-post-horizontal.php:8
+#, fuzzy
+msgid "Single Post - Horizontal"
+msgstr "Poste único - Horizontal"
+
+#: patterns/single-posts/single-post-vertical.php:8
+#, fuzzy
+msgid "Single Post - Vertical"
+msgstr "Poste único - Vertical"
+
+#: patterns/skills-sliders/skill-slider.php:8
+#: patterns/skills-sliders/skills-slider-section.php:8
+#, fuzzy
+msgid "Skill Slider"
+msgstr "Deslizador de habilidades"
+
+#: patterns/skills-sliders/skill-slider.php:13
+#: patterns/skills-sliders/skills-slider-group.php:14
+#: patterns/skills-sliders/skills-slider-group.php:24
+#: patterns/skills-sliders/skills-slider-group.php:34
+#: patterns/skills-sliders/skills-slider-group.php:44
+#: patterns/skills-sliders/skills-slider-section.php:27
+#: patterns/skills-sliders/skills-slider-section.php:37
+#: patterns/skills-sliders/skills-slider-section.php:47
+#: patterns/skills-sliders/skills-slider-section.php:57
+msgid "Skill Title"
+msgstr "Título de la habilidad"
+
+#: patterns/skills-sliders/skills-slider-group.php:8
+#, fuzzy
+msgid "Skills Slider Group"
+msgstr "Grupo Deslizador de Habilidades"
+
+#: patterns/social-sharing/share-content-horizontal.php:8
+#, fuzzy
+msgid "Social Sharing Section - Horizontal"
+msgstr "Sección para compartir en redes sociales - Horizontal"
+
+#: patterns/social-sharing/share-content-horizontal.php:13
+#: patterns/social-sharing/share-content-vertical.php:13
+msgid "Share This Post"
+msgstr "Compartir esta publicación"
+
+#: patterns/social-sharing/share-content-vertical.php:8
+#, fuzzy
+msgid "Social Sharing Section - Vertical"
+msgstr "Sección para compartir en redes sociales - Vertical"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+msgid "https://crosswindsframework.com/"
+msgstr "https://crosswindsframework.com/"
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "Take your website to the next level with the Crosswinds Blocks plugin!"
+msgstr "Lleve su sitio web al siguiente nivel con el plugin Crosswinds Blocks"
+
+#. Author of the plugin/theme
+msgid "Jacob Martella Web Development"
+msgstr "Jacob Martella Web Development"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "https://jacobmartella.com"
+msgstr "https://jacobmartella.com"
+
+#, fuzzy
+#~ msgid ""
+#~ "Want to take your website to the next level now that you're using the "
+#~ "Crosswinds Framework? Check out the Crosswinds Blocks plugin! This plugin "
+#~ "will add in an accordion block, tabs block, post navigation block, "
+#~ "related posts block, social sharing block and more to your website. It's "
+#~ "the perfect way to customize your website in a full site editor world!"
+#~ msgstr ""
+#~ "¿Quieres llevar tu sitio web al siguiente nivel ahora que estás usando el "
+#~ "Framework Crosswinds? Echa un vistazo al plugin Crosswinds Blocks Este "
+#~ "plugin agregará un bloque de acordeón, un bloque de pestañas, un bloque "
+#~ "de navegación de publicaciones, un bloque de publicaciones relacionadas, "
+#~ "un bloque para compartir en redes sociales y mucho más a tu sitio web. "
+#~ "¡Es la manera perfecta de personalizar su sitio web en un mundo de editor "
+#~ "de sitio completo!"
